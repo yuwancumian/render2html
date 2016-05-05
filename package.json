@@ -1,0 +1,25 @@
+{
+  "name": "render2html",
+  "version": "0.1.2",
+  "description": "",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yuwancumian/render2html.git"
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2"
+  ],
+  "author": "yuwancumian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuwancumian/render2html/issues"
+  },
+  "homepage": "https://github.com/yuwancumian/render2html",
+  "dependencies": {
+  }
+}
